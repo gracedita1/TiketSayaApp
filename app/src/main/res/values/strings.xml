@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TiketSayaApp</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="name_label">Nama</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="explore">EXPLORE NOW</string>
+    <string name="grace_dita">Grace Dita</string>
+    <string name="traveller">Traveller</string>
+    <string name="my_tickets">My Ticket</string>
+    <string name="menara_pisa">Menara Pisa</string>
+    <string name="torri">Torri</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="village">Village, Jakarta</string>
+    <string name="tickets">1 Ticket</string>
+    <string name="buy_tickets">Buy Ticket</string>
+    <string name="tickets_details">Ticket Details</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
