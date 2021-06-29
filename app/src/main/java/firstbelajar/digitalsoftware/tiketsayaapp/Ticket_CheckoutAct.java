@@ -165,8 +165,7 @@ public class Ticket_CheckoutAct extends AppCompatActivity {
         btn_back.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent backtohome = new Intent(Ticket_CheckoutAct.this,HomeAct.class);
-                startActivity( backtohome );
+                onBackPressed();
             }
         } );
 

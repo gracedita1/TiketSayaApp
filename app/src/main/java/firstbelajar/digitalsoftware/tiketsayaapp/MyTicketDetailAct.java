@@ -59,8 +59,7 @@ public class MyTicketDetailAct extends AppCompatActivity {
         btn_back.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent backtoprofildetail = new Intent(MyTicketDetailAct.this,My_ProfilAct.class);
-                startActivity( backtoprofildetail );
+                onBackPressed();
             }
         } );
     }
